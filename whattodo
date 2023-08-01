@@ -1,0 +1,3 @@
+make sure all js file are in index for testing
+
+then combine them into a minified singular file
